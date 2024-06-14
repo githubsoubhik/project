@@ -1,0 +1,7 @@
+<?php echo home_url(); ?>/
+
+<?php  get_template_directory_uri(); ?>/
+
+for site icon
+
+  <link rel="icon" type="image/x-icon" href="<?php  echo get_template_directory_uri(); ?>/assets/images/favicon/siteicon.png">
